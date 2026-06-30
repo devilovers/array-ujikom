@@ -1,70 +1,55 @@
-<h1 align="center">
-  📚 Student Records
-</h1>
+<div align="center">
 
-<p align="center">
-  A simple Java application built to practice arrays, loops, and basic data processing.
+# Student Records
+
+A simple console-based student management application built with **Java**, designed to practice arrays, loops, and fundamental data processing concepts.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</div>
+
+---
+
+## Overview
+
+This project was created to explore the fundamentals of Java programming through a simple student data management application. The program focuses on implementing arrays, loops, and basic data processing techniques in a straightforward console environment.
+
+---
+
+## Features
+
+* Store student data using arrays
+* Display and process data with loops
+* Console-based user interface
+* Lightweight and beginner-friendly implementation
+* Demonstrates fundamental programming concepts
+
+---
+
+## Technologies
+
+| Technology   | Description                                  |
+| ------------ | -------------------------------------------- |
+| Java 17      | Core programming language                    |
+| NetBeans IDE | Development environment used for the project |
+
+---
+
+## Author
+
+<p>
+<strong>Nur Islami Sabila</strong><br>
+Informatics Engineering Student from Indonesia.
 </p>
 
----
+<blockquote>
+Learning by building, growing by creating.
+</blockquote>
 
-## ✨ About Project
-
-This project is a simple student data management application created as part of my journey in learning Java programming fundamentals.
-
-The application demonstrates the use of arrays, loops, and basic data processing through a console-based program.
-
----
-
-## 🚀 Features
-
-- 📋 Store student data using arrays
-- 🔄 Display data using loops
-- 💻 Console-based interface
-- 📚 Beginner-friendly implementation
-
----
-
-## 🛠️ Built With
-
-- Java
-- NetBeans IDE
-
----
-
-## 📂 Project Structure
-
-```bash
-student-records/
-│
-├── src/
-│   └── Main.java
-└── README.md
-```
-
----
-
-## 🎯 Learning Goals
-
-- Understanding Java arrays
-- Learning loops and data processing
-- Practicing programming logic and problem-solving skills
-
----
-
-## 👩🏻‍💻 Author
-
-**Nur Islami Sabila**
-
-Frontend Developer & Informatics Student Candidate from Indonesia 🇮🇩
-
-> "Learning by building, growing by creating."
-
----
-
-⭐ If you like this project, don't forget to give it a star.
+<p align="left">
+If you found this project helpful, consider giving it a ⭐ to support the repository.
+</p>
